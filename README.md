@@ -18,6 +18,8 @@
 - [Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [Mozilla Firefox Nightly](https://www.mozilla.org/cs/firefox/channel/desktop/#nightly)
 - [Electron](https://www.electronjs.org/)
+- [node.js download](https://nodejs.org/en/download/current/)
+- [http-server](https://www.npmjs.com/package/http-server)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 - [http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
@@ -65,6 +67,7 @@
 ### Misc
 
 - [Glitch](https://glitch.com/)
+- [Webpack](https://github.com/webpack/webpack)
 - [htmx](https://htmx.org/)
 - [hyperscript](https://hyperscript.org/)
 - [Jekyll](https://jekyllrb.com)

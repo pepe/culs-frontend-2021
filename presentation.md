@@ -404,6 +404,10 @@ date: 2021-11-09
 title: Presentation
 ---
 
+# Presentation
+
+---
+
 ## What we see
 
 * Sizes
@@ -479,7 +483,7 @@ title: Presentation
 
 ---
 author: pepe
-date: 2021-11-10
+date: 2021-11-11
 title: Scripting
 ---
 
@@ -524,6 +528,14 @@ title: Scripting
 
 ---
 
+## Webpack
+
+* Packing assets
+* Primarily for JS
+* Plug-ins
+
+---
+
 ## Transpiled languages
 
 * CofeeScript ✝
@@ -544,16 +556,8 @@ title: Scripting
 
 ---
 author: pepe
-date: 2021-11-12
-title: Outro
----
-
-## Grab bag
-
-* Parcel
-* htmx
-* hyperscript
-
+date: 2021-11-11
+title: All together
 ---
 
 ## Glitch
@@ -566,11 +570,31 @@ title: Outro
 
 ### GitPod
 
-* automated environments
-* containers
-* remote
+* Automated environments
+* Containers
+* Remote
 
 ---
+
+## Grab bag
+
+* Parcel
+* htmx
+* hyperscript
+
+--- 
+
+# Hands On
+
+===
+
+---
+author: pepe
+date: 2021-11-12
+title: Outro
+---
+
+
 
 # Frontend developer Roadmap
 

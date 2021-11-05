@@ -1,10 +1,10 @@
 ---
-author: Pepe
+author: pepe
 date: 2021-11-08
 title: Intro
 ---
 
-# Frontend 2021
+# Frontend CULS 2021
 
 ---
 
@@ -47,7 +47,7 @@ title: Intro
 
 ---
 
-## Final Project
+## Requrements
 
 * Group
 * Static only
@@ -56,12 +56,16 @@ title: Intro
 
 ---
 
-## Final Project
+## Structure
 
 * Portfolio
 * Welcome page
-* Personal page for participants
+* Personal pages
 * Contact page
+
+---
+
+# Evaluation
 
 ---
 
@@ -73,18 +77,19 @@ title: Intro
 
 ---
 
-## Any questions
+## Any questions?
 
 Speak now, or be silent for the course
 
 ---
 
-## Let's Go!
+# Let's Go!
 
 ===
 
+
 ---
-author: Pepe
+author: pepe
 date: 2021-11-08
 title: Tools
 ---
@@ -95,11 +100,11 @@ title: Tools
 
 ---
 
-# Version Controll Systems
+## Scource Controll Management
 
 ---
 
-## VCS whys
+## Why?
 
 * Storing
 * Collaboration
@@ -107,11 +112,28 @@ title: Tools
 
 ---
 
+## Options
+
+* Git
+* Mercurial
+* New kids
+
+---
+
+## Git
+
+* Most used
+* Best documentation
+* GitHub
+
+---
+
 ## GitHub
 
 * Your work
 * OpenSource projects
-* Not only Git
+* Not only SCM
+* Live Screen
 
 ---
 
@@ -119,7 +141,8 @@ title: Tools
 
 * Issues, projects
 * Pull requests
-* Static pages
+* Static pages (Project)
+* Live Screen
 
 ---
 
@@ -128,6 +151,7 @@ title: Tools
 * Commit vs Push
 * Branches
 * Pull requests vs Participants
+* Live Screen
 
 ---
 
@@ -136,6 +160,7 @@ title: Tools
 * Register
 * Follow @pepe and star
 * Create project repository
+* Break
 
 ---
 
@@ -143,7 +168,8 @@ title: Tools
 
 * Drew
 * OpenSource
-* Fair
+* Git/Mercurial
+* Email
 
 ---
 
@@ -155,7 +181,7 @@ title: Tools
 
 * GitHub
 * OpenSource project
-* Many plugins
+* Many packages
 
 ---
 
@@ -167,7 +193,7 @@ title: Tools
 
 ---
 
-## Plugins
+## Packages
 
 * Languages
 * Processing
@@ -182,7 +208,7 @@ title: Tools
 
 ---
 
-## Exotics
+## Ancient
 
 * emacs
 * vim
@@ -193,19 +219,18 @@ title: Tools
 ## Editors task
 
 * Install application
-* Install HTML, CSS, JS plug-in
+* Install HTML, CSS, JS packages
+* Break
 
 ---
 
-# Other
+# Misc
 
 ---
 
 ## Developer tools
 
 * Firefox Nightly & Chrome Canary
-* Standard
-* Many extensions
 * Task install
 
 ---
@@ -214,14 +239,7 @@ title: Tools
 
 * Mozilla Developer Network
 * All about web & more
-
----
-
-## JSBin
-
-* Fast check
-* Found on the web
-* JS libs, Doc/Style types
+* Live Screen
 
 ---
 
@@ -243,24 +261,25 @@ title: Tools
 
 * Browser
 * All
+* Live Screen
 
 ---
 
-# Content Delivery Systems
+## Content Delivery Networks
 
 ===
 
 ---
-author: Pepe
-date: 2021-11-08
+author: pepe
+date: 2021-11-09
 title: Content
 ---
 
-# Finally Content
+# Content
 
 ---
 
-## Document vs Data
+## Documents vs Data
 
 * Web
 * Apps
@@ -273,7 +292,7 @@ title: Content
 * History
 * Incarnations
 * HTML5
-* Task template
+* Live Screen
 
 ---
 
@@ -290,8 +309,8 @@ title: Content
 
 * HTML & XML
 * Tree structure
-* Hierarchical
 * Object Oriented
+* Live Screen
 
 ---
 
@@ -319,20 +338,10 @@ title: Content
 * Binary
 * Task some more
 
----
-
-## Story - communication
-
-* It's all about it
-* Best way
-* Cambrian explosion
-
----
-
 ===
 
 ---
-author: Pepe
+author: pepe
 date: 2021-11-09
 title: Presentation
 ---
@@ -411,7 +420,7 @@ title: Presentation
 ===
 
 ---
-author: Pepe
+author: pepe
 date: 2021-11-10
 title: Scripting
 ---
@@ -473,6 +482,12 @@ title: Scripting
 * npm
 * Next semester
 
+===
+
+---
+author: pepe
+date: 2021-11-12
+title: Outro
 ---
 
 ## Grab bag
@@ -480,12 +495,22 @@ title: Scripting
 * htmx
 * hyperscript
 
-===
+---
+
+## Glitch
+
+* IDE in browser
+* Instant shipping
+* Colaboration
 
 ---
-author: Pepe
-date: 2019-11-28
-title: Outro
+
+### GitPod
+
+* automated environments
+* containers
+* remote
+
 ---
 
 # Frontend developer Roadmap

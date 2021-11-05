@@ -6,20 +6,19 @@
 ### Tools
 
 - [Git](https://git-scm.com)
+- [Mercurial](https://www.mercurial-scm.org/)
+- [Eden](https://github.com/facebookexperimental/eden)
+- [Jujutsu](https://github.com/martinvonz/jj)
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/index.html)
 - [GitHub](https://github.com)
 - [Source Hut](https://sr.ht)
-- [GitHub Desktop](https://desktop.github.com/)
 - [Get Atom](https://atom.io/)
 - [Atom Packages](https://atom.io/packages)
 - [Get Visual Studio Code](https://code.visualstudio.com)
 - [Get Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [Electron](https://www.electronjs.org/)
-- [JSBin](http://jsbin.com)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
-- [Microservices](https://en.wikipedia.org/wiki/Microservices)
-- [Containers](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)
-- [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
+- [http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 ### Content
 
@@ -45,19 +44,25 @@
 - [Material Design](https://material.io)
 - [Fabric Core](https://github.com/OfficeDev/office-ui-fabric-core)
 
+### Scripting
+
 - [JavaScript](https://www.w3.org/standards/webdesign/script)
 - [jQuery](http://jquery.com)
 - [React.js](https://reactjs.org)
 - [Angular.js](https://angular.io)
-- [Ember.js](https://emberjs.com)
 - [CoffeScript](http://coffeescript.org)
 - [TypeScript](http://www.typescriptlang.org)
 - [Elm](http://elm-lang.org)
 - [ClojureScript](https://clojurescript.org)
+- [Reason](https://reasonml.github.io/)
 - [Node.js](https://nodejs.org)
 - [NPM](https://www.npmjs.com)
-- [Jekyll](https://jekyllrb.com)
-- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
+### Misc
+
+- [Glitch](https://glitch.com/)
+- [htmx](https://htmx.org/)
+- [hyperscript](https://hyperscript.org/)
 - [Jekyll](https://jekyllrb.com)
+- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [PWA](https://developers.google.com/web/progressive-web-apps/)

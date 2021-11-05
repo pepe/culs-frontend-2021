@@ -43,16 +43,24 @@ title: Intro
 
 ---
 
+## Hands on
+
+* Simple examples
+* Live projects
+* Project related
+
+---
+
 # Project
 
 ---
 
-## Requrements
+## Requirements
 
 * Group
 * Static only
-* Picnic
 * Pixel perfect
+* Picnic
 
 ---
 
@@ -100,11 +108,18 @@ title: Tools
 
 ---
 
+## FOSS
+
+* Free
+* OpenSource
+
+---
+
 ## Scource Controll Management
 
 ---
 
-## Why?
+## Value
 
 * Storing
 * Collaboration
@@ -219,7 +234,7 @@ title: Tools
 ## Editors task
 
 * Install application
-* Install HTML, CSS, JS packages
+* HTML, CSS, JS packages
 * Break
 
 ---
@@ -230,7 +245,8 @@ title: Tools
 
 ## Developer tools
 
-* Firefox Nightly & Chrome Canary
+* Firefox Nightly
+* Chrome Canary
 * Task install
 
 ---
@@ -265,7 +281,11 @@ title: Tools
 
 ---
 
-## Content Delivery Networks
+## Equipment
+
+* Keyboard
+* Pointing device
+* Chair
 
 ===
 
@@ -292,7 +312,6 @@ title: Content
 * History
 * Incarnations
 * HTML5
-* Live Screen
 
 ---
 
@@ -317,9 +336,16 @@ title: Content
 ## JSON
 
 * History
-* Booming - Lingua Franca
+* Lingua Franca
 * API
 * Task - JSON example
+
+---
+
+## OpenGraph
+
+* Page Object
+* Social Graph
 
 ---
 
@@ -337,6 +363,29 @@ title: Content
 * SVG
 * Binary
 * Task some more
+
+---
+
+## HTML dissect
+
+* Head
+* Body
+* Elements
+
+---
+
+## Custom Elements
+
+* Your way
+* Customisable
+* Live Screen
+
+---
+
+## Live Screen
+
+* HTML boilerplate
+* Project
 
 ===
 
@@ -492,6 +541,7 @@ title: Outro
 
 ## Grab bag
 
+* Parcel
 * htmx
 * hyperscript
 

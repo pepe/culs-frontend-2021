@@ -12,12 +12,14 @@
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/index.html)
 - [GitHub](https://github.com)
 - [Source Hut](https://sr.ht)
-- [Get Atom](https://atom.io/)
+- [Atom](https://atom.io/)
 - [Atom Packages](https://atom.io/packages)
-- [Get Visual Studio Code](https://code.visualstudio.com)
-- [Get Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [Mozilla Firefox Nightly](https://www.mozilla.org/cs/firefox/channel/desktop/#nightly)
 - [Electron](https://www.electronjs.org/)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
+- [Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 - [http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 ### Content
@@ -26,9 +28,11 @@
 - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 - [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language)
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
-- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [JSON](https://www.json.org/json-en.html)
+- [OpenGraph](https://ogp.me/)
 - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 - [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ### Presentation
 

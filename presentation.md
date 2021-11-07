@@ -20,7 +20,7 @@ title: Intro
 ## Who are you?
 
 * Name & Origin
-* Engagement
+* Engagement [0-2]
 * Experience
 
 ---
@@ -60,7 +60,6 @@ title: Intro
 
 * Group
 * Static only
-* Pixel perfect
 * Picnic
 
 ---

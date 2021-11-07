@@ -413,7 +413,21 @@ title: Presentation
 * Sizes
 * Positions
 * Visuals
+
+---
+
+## Behaviour
+
+* Hovers
 * Animations
+* Transitions
+
+---
+
+## Media
+
+* Responsive
+* Special devices
 
 ---
 

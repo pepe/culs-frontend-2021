@@ -2,6 +2,8 @@
 
 ## CULS 2019 - study block
 
+There are information for the study block. This is basic set, that will expand
+as we will progress through the week. So add the star and stay tuned.
 
 ### Tools
 

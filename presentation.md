@@ -13,7 +13,7 @@ title: Intro
 * @pepe | @damnpepe
 * World Citizen
 * Father
-* Programmer
+* Computer scientist
 
 ---
 
@@ -48,6 +48,7 @@ title: Intro
 * Simple examples
 * Live projects
 * Project related
+* Slow me down
 
 ---
 
@@ -73,6 +74,13 @@ title: Intro
 
 ---
 
+## Repository
+
+* GitHub
+* All members activity
+
+---
+
 # Evaluation
 
 ---
@@ -82,6 +90,12 @@ title: Intro
 * Tasks 40%
 * Project 50%
 * Test 10%
+
+---
+
+## Link of the day
+
+* Superstition
 
 ---
 

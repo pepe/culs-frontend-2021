@@ -5,6 +5,10 @@
 There are information for the study block. This is basic set, that will expand
 as we will progress through the week. So add the star and stay tuned.
 
+
+## Links of the day
+
+- [Hacker Superstitions](https://nora.codes/post/hacker-superstitions/)
 ### Tools
 
 - [Git](https://git-scm.com)

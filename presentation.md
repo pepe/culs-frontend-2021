@@ -19,9 +19,9 @@ title: Intro
 
 ## Who are you?
 
-* Name & Origin
+* Vladimir & Russia
 * Engagement [0-2]
-* Experience
+* Experience C# .NET JavaScript Python
 
 ---
 
@@ -36,7 +36,7 @@ title: Intro
 
 ## Theory
 
-* Tools
+* Tools Visual Studio, Visual Code
 * Content
 * Presentation
 * Scripting
@@ -66,16 +66,16 @@ title: Intro
 
 ## Structure
 
-* Portfolio
+* Portfolio 
 * Welcome page
 * Personal pages
-* Contact page
+* Contact page 
 
 ---
 
 ## Repository
 
-* GitHub
+* GitHub and GitLab
 * All members activity
 
 ---

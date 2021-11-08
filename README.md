@@ -6,6 +6,7 @@ There are information for the study block. This is basic set, that will expand
 as we will progress through the week. So add the star and stay tuned.
 
 - [Example Final Project](https://github.com/pepe/frontend-final-project-2021)
+- [Link to Google Meet](https://meet.google.com/nju-mryo-ino)
 
 
 ## Links of the day

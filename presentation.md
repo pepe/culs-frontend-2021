@@ -629,17 +629,7 @@ date: 2021-11-12
 title: Outro
 ---
 
-
-
 # Frontend developer Roadmap
-
----
-
-## Story - all together
-
-* Static site generators
-* Jekyll
-* GitHub pages
 
 ---
 

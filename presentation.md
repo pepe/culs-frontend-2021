@@ -534,7 +534,19 @@ title: Scripting
 
 ---
 
-# Live Screen
+## Taxonomy
+
+* C family syntax
+* prototype OOP
+* functional
+
+---
+
+## node.js
+
+* Standalone runtime
+* Event loop
+* V8 engine
 
 ---
 

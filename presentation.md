@@ -454,7 +454,7 @@ title: Presentation
 
 ## CSS
 
-* Separation of presentation and content
+* Separation
 * HTML, XML, SVG
 * History
 
@@ -465,6 +465,14 @@ title: Presentation
 * Selectors
 * Declarations
 * Properties
+
+---
+
+## Selectors
+
+* ids
+* classes
+* pseudo
 
 ---
 
@@ -510,7 +518,7 @@ title: Presentation
 
 ---
 author: pepe
-date: 2021-11-11
+date: 2021-11-09
 title: Scripting
 ---
 

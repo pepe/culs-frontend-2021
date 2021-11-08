@@ -30,6 +30,7 @@ as we will progress through the week. So add the star and stay tuned.
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 - [http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [GitHub Desktop](https://desktop.github.com/)
 
 ### Content
 

@@ -470,9 +470,10 @@ title: Presentation
 
 ## Selectors
 
-* ids
-* classes
-* pseudo
+* Tags
+* Ids, classes
+* Pseudo
+* Live Screen
 
 ---
 

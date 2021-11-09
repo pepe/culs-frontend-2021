@@ -8,6 +8,12 @@ Emre Karabulut
 Raksha Shrees
 Sushmita Parajuli
 
+# Team Rockers
+Supriya Kumari
+Arjun Chettiyattil Pankaj @arjuncp7
+Saravana Kumar Obula Meganath @SaravanaKumar01
+Shimon Md Kamrujjaman
+
 # 404
 Srimathi Ravisankar
 Anastassiya Li

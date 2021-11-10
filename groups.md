@@ -27,3 +27,9 @@ Omar Fatma Elzahra Omar
 # Portuguese Team
 Tiago Lameirão @TLameirao2001
 Vasco Ribeiro @VascoRR001
+
+**#group of 3**
+Amanuel Aberra Chala
+Nemiah Magazine
+Sitina Jemal Hussen
+

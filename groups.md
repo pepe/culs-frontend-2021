@@ -19,3 +19,7 @@ Srimathi Ravisankar
 Anastassiya Li
 Ana Lekveishvili
 Zein Hammad
+# Team 7
+Alinazarov Farrukh
+Hossain Depy Urmina
+Omar Fatma Elzahra Omar

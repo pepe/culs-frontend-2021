@@ -24,3 +24,9 @@ Zein Hammad
 MD FAISAL IBN HAQUE
 SHAHINA ISLAM TRIPTY
 MD SHARIKUL ISLAM
+
+
+# Team 7
+Alinazarov Farrukh
+Hossain Depy Urmina
+Omar Fatma Elzahra Omar

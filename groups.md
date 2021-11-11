@@ -19,6 +19,14 @@ Srimathi Ravisankar
 Anastassiya Li
 Ana Lekveishvili
 Zein Hammad
+
+# Team of Vue
+Harsh Ahir
+Azim Khaliqyar
+Muthana Ahmed Ramzi
+Moutaz Abushawashi
+Tokhirjon Sirojiddinov
+
 # Team 7
 Alinazarov Farrukh
 Hossain Depy Urmina

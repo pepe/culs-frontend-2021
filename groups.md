@@ -32,9 +32,10 @@ Alinazarov Farrukh
 Hossain Depy Urmina
 Omar Fatma Elzahra Omar
 
-# Portuguese Team
+# Tuga&Ghana Team
 Tiago Lameirão @TLameirao2001
 Vasco Ribeiro @VascoRR001
+Bernard Amofa @BernAmof
 
 # void
 Md Faisal Ibn Haque

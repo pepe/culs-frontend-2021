@@ -44,3 +44,9 @@ Md Sharikul Islam
 #Gorup Alfa
 Meet Parikh
 Karnav Chauhan
+
+#Group SNA
+Sitina Jemal Hussen
+Nemiah Magazine
+Amanuel Abera Chala
+

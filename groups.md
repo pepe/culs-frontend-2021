@@ -64,7 +64,7 @@ Natalia Mosunova
 Andrey Ponomarenko
 
 # Team DevDivas
-Kikani Prasad @93911477
+Kikani Parshad @kikaniparshad
 Harish Kumar @harishkumar-dev
 Hamame Berhanu Woldegiorgis @HBWOLDE92
 Okwuigbo ifeanyi Christian @Ifeanyidev

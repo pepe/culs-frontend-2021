@@ -20,7 +20,7 @@ Anastassiya Li
 Ana Lekveishvili
 Zein Hammad
 
-# Team of Vue
+# Team Vue
 Harsh Ahir
 Azim Khaliqyar
 Muthana Ahmed Ramzi
@@ -54,6 +54,14 @@ Karnav Chauhan
 Sitina Jemal Hussen
 Nemiah Megazine
 Amanuel Abera Chala
+
+# MT Group
+Tebakhi Ahmed
+Muhtaseb Muhannad
+
+# Untitled Team 
+Natalia Mosunova
+Andrey Ponomarenko
 
 # Team DevDivas
 Kikani Prasad @93911477

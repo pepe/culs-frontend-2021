@@ -20,7 +20,7 @@ Anastassiya Li
 Ana Lekveishvili
 Zein Hammad
 
-# Team of Vue
+# Team Vue
 Harsh Ahir
 Azim Khaliqyar
 Muthana Ahmed Ramzi

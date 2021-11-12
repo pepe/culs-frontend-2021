@@ -42,11 +42,11 @@ Md Faisal Ibn Haque
 Shahina Islam Tripty
 Md Sharikul Islam
 
-#Gorup Alfa
+# Group Alfa
 Meet Parikh
 Karnav Chauhan
 
-#Group SAN
+# Group SAN
 Sitina Jemal Hussen
 Nemiah Megazine
 Amanuel Abera Chala

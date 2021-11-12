@@ -604,40 +604,6 @@ title: Scripting
 
 ---
 author: pepe
-date: 2021-11-11
-title: All together
----
-
-## Glitch
-
-* IDE in browser
-* Instant shipping
-* Colaboration
-
----
-
-## GitPod
-
-* Automated environments
-* Containers
-* Remote
-
----
-
-## Grab bag
-
-* Parcel
-* htmx
-* hyperscript
-
---- 
-
-# Hands On
-
-===
-
----
-author: pepe
 date: 2021-11-12
 title: Outro
 ---

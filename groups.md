@@ -70,5 +70,5 @@ Hamame Berhanu Woldegiorgis @HBWOLDE92
 Okwuigbo ifeanyi Christian @Ifeanyidev
 
 # group 06
-Mahsa Asadieydivand @mashasdi
+Mahsa Asadieydivand @mashasadi
 Khamar Mansi Vinodkumar @xkham007

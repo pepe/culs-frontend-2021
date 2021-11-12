@@ -67,6 +67,7 @@ as we will progress through the week. So add the star and stay tuned.
 - [jQuery](http://jquery.com)
 - [React.js](https://reactjs.org)
 - [Angular.js](https://angular.io)
+- [Vue.js](https://v3.vuejs.org/)
 - [CoffeScript](http://coffeescript.org)
 - [TypeScript](http://www.typescriptlang.org)
 - [Elm](http://elm-lang.org)
@@ -77,6 +78,7 @@ as we will progress through the week. So add the star and stay tuned.
 
 ### Misc
 
+- [Frontend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Glitch](https://glitch.com/)
 - [Webpack](https://github.com/webpack/webpack)
 - [htmx](https://htmx.org/)

@@ -32,6 +32,10 @@ Alinazarov Farrukh
 Hossain Depy Urmina
 Omar Fatma Elzahra Omar
 
+# Internal Server Error
+Denis Nosov  
+Hakan Caliskan
+
 # Tuga&Ghana Team
 Tiago Lameirão @TLameirao2001
 Vasco Ribeiro @VascoRR001

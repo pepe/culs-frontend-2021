@@ -616,7 +616,7 @@ title: All together
 
 ---
 
-### GitPod
+## GitPod
 
 * Automated environments
 * Containers
@@ -643,10 +643,6 @@ title: Outro
 ---
 
 # Frontend developer Roadmap
-
----
-
-# PWA
 
 ---
 

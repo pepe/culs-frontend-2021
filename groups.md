@@ -73,6 +73,10 @@ Okwuigbo ifeanyi Christian @Ifeanyidev
 Mahsa Asadieydivand @mashasadi
 Khamar Mansi Vinodkumar @xkham007
 
+# Team WebDev
+Lala Yagubova @LalaYagubova
+Ahmed Ayachi @ahmeds02
+
 # Group WebDev
 Ahmed Ayachi
 Lala Yagubova
